@@ -65,14 +65,14 @@ Intelligence +3
 ========================================
 SKILLS
 ========================================
-
-Investigation  +3 (Police Dog)                                        (Custom Lineage Variable Trait. )
-Arcana         +3 (Magic sensitive trough Class/Patron)               (Custom Background)
-Intimidation   +5 (the Chihuahua Stare – flavor)                      (Custom Background)
-Perception(P)  +6 (Keen senses: hearing, sight, smell – flavor)       (Rogue Class)
-Persuasion     +5 (The "Puppy Dog Eyes")                              (Rogue Class)
-Insight        +4                                                     (Rogue Class)
-Stealth(P)     +6 (Small Dog)                                         (Rogue Class)
+Level:  Skill          Boni  Mechanical - Source/Raw Because                   Played As/In-World-Reason
+Prof    Investigation  +3    Custom Lineage Variable Trait.                    Police Dog
+Prof    Arcana         +3    Custom Background                                 Magic sensitive trough Class/Patron
+Prof    Intimidation   +5    Custom Background                                 The Chihuahua Stare                      
+Exp     Perception     +6    Rogue Class                                       Dogs Keen senses hearing, sight, smell – flavor
+Prof    Persuasion     +5    Rogue Class                                       The "Puppy Dog Eyes"                              
+Prof    Insight        +4    Rogue Class                                       Police Dog/Training/Experience
+Exp     Stealth        +6    Rogue Class                                       Small Dog                                         
 
 ========================================
 LANGUAGES
