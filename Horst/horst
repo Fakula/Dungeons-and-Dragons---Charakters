@@ -3,11 +3,29 @@ Race: Human
 Gender:Male
 Sice: Medium
 
+Starting Stats{
 Streght:10
 Dexterity: 14
 Constitution: 15
 Intelligence: 14
 Wisdom: 10
 Charisma: 8
+}
+Starting-Feat: Magic Initiate - Druid
+{Spell:Entangle
+1st Cantrip:
+2nd Cantrip:
+}
+
+Background: Sage{
+Spell:
+Cantrip1: True Strike
+Cantrip2:
+}
+Stats:
+Int +2
+Con +1
+}
 
 Class: Rogue(1), Fighter(1) , Wizard(1)
+
