@@ -29,5 +29,5 @@ Int +2
 Con +1
 }
 
-Class: Rogue(1), Fighter(1) , Wizard(1)
+Class:  Fighter(1) , Wizard(1)
 
