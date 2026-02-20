@@ -7,25 +7,24 @@ Sice: Medium
 
 Starting Stats{
 Streght:10
-Dexterity: 14
+Dexterity: 12
 Constitution: 15
 Intelligence: 14
 Wisdom: 10
 Charisma: 8
 }
-Starting-Feat: Magic Initiate - Druid
+Starting-Feat: Warcaster
+
+
+Background: {Guide:
+  Magic Initiate - Druid:
 {Spell:Entangle
 1st Cantrip:
 2nd Cantrip:
 }
 
-Background: Sage{
-Spell:Fog Cloud
-Cantrip1: True Strike
-Cantrip2:
-}
 Stats:
-Int +2
+Dex +2
 Con +1
 }
 
