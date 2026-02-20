@@ -19,7 +19,7 @@ Starting-Feat: Warcaster
 Background: {Guide:
   Magic Initiate - Druid:
 {Spell:Entangle
-1st Cantrip:
+1st Cantrip:Thunderclap
 2nd Cantrip:
 }
 
