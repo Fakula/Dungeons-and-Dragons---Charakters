@@ -24,3 +24,19 @@ Prerequisite: Level 2+ Warlock, a Warlock Cantrip That Deals Damage
 Choose one of your known Warlock cantrips that deals damage. You can add your Charisma modifier to that spell's damage rolls.
 Repeatable. You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
 
+Invocation: Eldritch Smite
+Source: Player's Handbook
+Prerequisite: Level 5+ Warlock, Pact of the Blade Invocation
+Once per turn when you hit a creature with your pact weapon, you can expend a Pact Magic spell slot to deal an extra 1d8 Force damage to the target, plus another 1d8 per level of the spell slot, and you can give the target the Prone condition if it is Huge or smaller.
+
+
+
+Level 6: Radiant Soul
+Your link to your patron allows you to serve as a conduit for radiant energy. You have Resistance to Radiant damage. Once per turn, when a spell you cast deals Radiant or Fire damage, you can add your Charisma modifier to that spell’s damage against one of the spell’s targets.
+
+Invocation: Pact of the Blade
+Source: Player's Handbook
+
+As a Bonus Action, you can conjure a pact weapon in your hand—a Simple or Martial Melee weapon of your choice with which you bond—or create a bond with a magic weapon you touch; you can’t bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it. Until the bond ends, you have proficiency with the weapon, and you can use it as a Spellcasting Focus.
+Whenever you attack with the bonded weapon, you can use your Charisma modifier for the attack and damage rolls instead of using Strength or Dexterity; and you can cause the weapon to deal Necrotic, Psychic, or Radiant damage or its normal damage type.
+Your bond with the weapon ends if you use this feature’s Bonus Action again, if the weapon is more than 5 feet away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends.
