@@ -13,7 +13,7 @@ Intelligence: 15
 Wisdom: 10
 Charisma: 8
 }
-Starting-Feat: Warcaster
+Starting-Feat: Tough
 
 
 Background: {Guide:
@@ -34,5 +34,5 @@ Class:  Fighter(1) , Wizard(1)
 Plan:
 
 charakterlevel 3 to 7> Fighter -> eldritch knight -> Fighter lvl4 Asi/Feat:sentinel ->progression up to fighter lvl 6: Feat/asi:fey touched.
-Charakterlevel -> 7 to 11-> Wizard upen , wizard level 8 -> ASI +2Int
+Charakterlevel -> 7 to 11-> Wizard upen , wizard level 8 -> Warcaster
 
