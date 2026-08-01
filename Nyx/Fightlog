@@ -1,0 +1,59 @@
+Nyx attacks with a Shortbow using True Strike!
+Meta
+Damage Type: radiant
+WI9
+To Hit: 2d20kh1 (14, 6) + 7 + -4 [dexterity] + 4 [charisma] = 21
+Damage: 1d6 (5) + 4 + 1d6 (2) + 2d6 (4, 4) + 4 + -4 + 4 [radiant] + 1d6 (3) [radiant] = 26
+Effect
+Proficiency with a Shortbow allows you to add your proficiency bonus to the attack roll for any attack you make with it.
+
+---
+
+This weapon has the following mastery property. To use this property, you must have a feature that lets you use it.
+
+Vex. If you hit a creature with this weapon and deal damage to the creature, you have Advantage on your next attack roll against that creature before the end of your next turn.
+Sneak Attack
+Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll.
+Blood Sacrifice
+You sacrifice a portion of your life force to enhance your magical power. When you cast this spell, you take 2d6 Necrotic damage, which can't be reduced or prevented in any way. For the duration, when you cast a spell that deals damage, one target of the spell (your choice) takes an extra 2d6 damage of the same type as the spell's normal damage type (your choice if there are multiple).
+
+Agonizing Blast
+You can add your Charisma modifier to your true strike.
+True Strike
+Guided by a flash of magical insight, you make one attack with the weapon used in the spell’s casting. The attack uses your spellcasting ability for the attack and damage rolls instead of using Strength or Dexterity. If the attack deals damage, it can be Radiant damage or the weapon’s normal damage type (your choice).
+
+Cantrip Upgrade. Whether you deal Radiant damage or the weapon’s normal damage type, the attack deals extra Radiant damage when you reach levels 5 (1d6), 11 (2d6), and 17 (3d6)
+True Strike 2024 snippet by alexei
+Bild
+WI9: <Injured> (-26)
+
+
+Nyx uses Fueled Spellfire!
+Meta
+Radiant Damage Roll: 2d8 (6, 6) = 12
+Effect
+You rolled a 12, You can add this result to one Radiant damage roll of a spell you cast this turn
+Effect
+Once per turn, when a spell you cast deals Radiant damage, you can expend up to two Hit Point Dice, roll them, and add the total rolled to one damage roll of the spell.
+
+You can use -amt to indicate the quantity of Hit Die being used (1 or 2, default 1), and use -choice to indicate the size of Hit Die being used (6, 8, etc), or !cvar defaultHD to set the hit point die (d6, d8, etc).
+
+
+Nyx casts Ballistic Smite!
+Meta
+Damage: 2d6 (1, 1) + 2d6 (6, 1) + 2d6 (3, 3) = 15
+Damage: 15 [magical elemental] = 15
+Range: Self
+Effect
+A damage type can be selected with -choice
+Effect
+Choose Acid, Cold, Fire, Lightning, Poison, or Thunder damage. The target hit by the attack takes an extra 2d6 damage of the chosen type. The triggering attack can deal the chosen damage type or its normal damage type (your choice).
+At Higher Levels
+The damage increases by 1d6 for each spell slot level above 1.
+Spell Slots
+3 ▢▢ (-1)
+Blood Sacrifice
+You sacrifice a portion of your life force to enhance your magical power. When you cast this spell, you take 2d6 Necrotic damage, which can't be reduced or prevented in any way. For the duration, when you cast a spell that deals damage, one target of the spell (your choice) takes an extra 2d6 damage of the same type as the spell's normal damage type (your choice if there are multiple).
+Bild
+
+WI9: Dealt 15 damage!
