@@ -1,0 +1,1375 @@
+# CHARACTER SHEET
+
+## BASIC INFORMATION
+
+Character Name: Nyx
+Class & Level: Rogue 1 / Warlock 5
+Player Name: 19Daniel87
+Species/Race: Fairy
+Background: Wayfarer
+Experience Points: 22.999
+
+---
+
+## ABILITY SCORES
+
+STR: 10
+STR Modifier: +0
+
+DEX: 18
+DEX Modifier: +4
+
+CON: 14
+CON Modifier: +2
+
+INT: 12
+INT Modifier: +1
+
+WIS: 10
+WIS Modifier: +0
+
+CHA: 19
+CHA Modifier: +4
+
+---
+
+## SAVING THROWS
+
+Strength: +0
+Dexterity: +7 [PROF]
+Constitution: +2
+Intelligence: +4 [PROF]
+Wisdom: +0
+Charisma: +4
+
+---
+
+## SKILLS
+
+Acrobatics: +4
+  Ability: DEX
+
+Animal Handling: +0
+  Ability: WIS
+
+Arcana: +4 [PROF]
+  Ability: INT
+
+Athletics: +0
+  Ability: STR
+
+Deception: +4
+  Ability: CHA
+
+History: +1
+  Ability: INT
+
+Insight: +3 [PROF]
+  Ability: WIS
+
+Intimidation: +7 [PROF]
+  Ability: CHA
+
+Investigation: +1
+  Ability: INT
+
+Medicine: +0
+  Ability: WIS
+
+Nature: +1
+  Ability: INT
+
+Perception: +6 [EXPERTISE]
+  Ability: WIS
+
+Performance: +4
+  Ability: CHA
+
+Persuasion: +7 [PROF]
+  Ability: CHA
+
+Religion: +1
+  Ability: INT
+
+Sleight of Hand: +7 [PROF]
+  Ability: DEX
+
+Stealth: +10 [EXPERTISE]
+  Ability: DEX
+
+Survival: +0
+  Ability: WIS
+
+---
+
+## PASSIVE SKILLS
+
+Passive Perception: 16
+Passive Insight: 13
+Passive Investigation: 11
+
+---
+
+## COMBAT
+
+Initiative: +4
+
+Armor Class: 14
+
+Speed:
+  Walking: 30 ft.
+  Flying: 30 ft.
+
+Hit Points:
+  Maximum: 45
+  Current: —
+  Temporary: --
+
+Hit Dice:
+  1d8 + 5d8
+
+Proficiency Bonus: +3
+
+Ability Save DC: 15
+
+---
+
+## DEFENSES / SAVING THROWS
+
+Saving Throw Modifiers:
+
+Strength: +0
+Dexterity: +7
+Constitution: +2
+Intelligence: +4
+Wisdom: +0
+Charisma: +4
+
+---
+
+# WEAPON ATTACKS & CANTRIPS
+
+## Dagger
+
+Attack Bonus: +7
+Damage: 1d4+4 Piercing
+
+Properties:
+  Simple
+  Finesse
+  Light
+  Thrown
+  Nick
+  Range: 20/60
+
+True Strike:
+  1d6+4 Radiant
+
+---
+
+## Dagger
+
+Attack Bonus: +7
+Damage: 1d4+4 Piercing
+
+Properties:
+  Simple
+  Finesse
+  Light
+  Thrown
+  Nick
+  Range: 20/60
+
+True Strike:
+  1d6+4 Radiant
+
+---
+
+## Shortbow
+
+Attack Bonus: +7
+Damage: 1d6+4 Piercing
+
+Properties:
+  Simple
+  Ammunition
+  Range
+  Two-Handed
+  Vex
+  Range: 80/320
+
+Ballistic Smite:
+  2d6 Acid
+  2d6 Cold
+  2d6 Fire
+  2d6 Lightning
+  2d6 Poison
+  2d6 Thunder
+
+---
+
+## Unarmed Strike
+
+Attack Bonus: +3
+Damage: 1 Bludgeoning
+
+
+# PROFICIENCIES & TRAINING
+
+## Armor
+
+Light Armor
+
+## Weapons
+
+Crossbow
+Hand Crossbow
+Rapier
+Scimitar
+Shortsword
+Simple Weapons
+Whip
+
+## Tools
+
+Dragonchess Set
+Thieves' Tools
+
+## Languages
+
+Common
+Elvish
+Sylvan
+Thieves’ Cant
+
+
+# ACTIONS
+
+## Standard Actions
+
+Attack
+Magic
+Dash
+Disengage
+Dodge
+Help
+Hide
+Ready
+Search
+Utilize
+Opportunity Attack
+Grapple
+Shove
+Improvise
+Two-Weapon Fighting
+Interact with an Object
+Study
+Influence
+
+## Bonus Actions
+
+### Healing Light
+
+Uses: 6 / Long Rest
+
+You can heal yourself or one creature you can see within 60 ft. by expending dice from the pool.
+
+You can expend up to 4 at once.
+
+You restore HP equal to the dice expended.
+
+You regain all expended dice when you finish a Long Rest.
+
+## Special
+
+### Fueled Spellfire
+
+Once per turn, when a spell you cast deals Radiant damage, you can expend up to two Hit Point Dice, roll them, and add the total rolled to one damage roll of the spell.
+
+### Luck Points
+
+Uses: 3 / Long Rest
+
+You have 3 Luck Points that you can spend on the benefits below.
+
+You regain expended Luck Points after a Long Rest.
+
+Advantage:
+  When you roll a d20 for a D20 Test, you can spend 1 Luck Point to give yourself Advantage on the roll.
+
+
+# FEATURES & TRAITS
+
+## WARLOCK FEATURES
+
+### Core Warlock Traits
+
+Source: PHB-2024 153
+
+### Eldritch Invocations
+
+Source: PHB-2024 153
+
+You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons.
+
+If an invocation has a prerequisite, you must meet it to learn that invocation.
+
+#### Agonizing Blast (Eldritch Blast)
+
+Source: br-2024
+
+You can add your Cha. modifier bonus to the damage rolls of Eldritch Blast.
+
+#### Lessons of the First Ones
+
+Source: br-2024
+
+You gain one Origin feat of your choice.
+
+#### Lessons of the First Ones
+
+Source: br-2024
+
+You gain an Origin feat of your choice.
+
+#### Lessons of the First Ones
+
+Source: br-2024
+
+You gain an Origin feat of your choice.
+
+#### Pact of the Tome
+
+Source: br-2024
+
+At the end of a Short or Long Rest you can conjure forth a book in your hand, a Book of Shadows, which contains eldritch magic that only you can access, granting the benefits below.
+
+When the book appears, choose 3 cantrips and choose two level 1 spells that have the Ritual tag, which can be from any class’s spell list.
+
+You can use the book as a Spellcasting Focus.
+
+The book disappears if you conjure another one or if you die.
+
+### Pact Magic
+
+Source: PHB-2024 153
+
+### Magical Cunning
+
+Source: PHB-2024 154
+
+Once per Long Rest, you can perform an esoteric rite for 1 minute, regaining up to 1 expended Pact Magic spell slots.
+
+Uses:
+  1 / Long Rest
+  1 Minute
+
+### Warlock Subclass
+
+Source: PHB-2024 154
+
+Subclass:
+  Celestial Patron
+
+### Celestial Spells
+
+Source: PHB-2024 160
+
+When you reach a Warlock level specified in the Celestial Spells table, you thereafter always have the listed spells prepared.
+
+### Healing Light
+
+Source: PHB-2024 160
+
+You gain the ability to channel celestial energy to heal wounds and have a pool of 6d6 to fuel this healing.
+
+As a Bonus Action, you can heal yourself or one creature you can see within 60 ft. by expending dice from the pool.
+
+You can expend up to 4 at once.
+
+You restore HP equal to the dice expended.
+
+You regain all expended dice when you finish a Long Rest.
+
+Healing Light:
+  Expend Healing: 6 / Long Rest
+  Action: 1 Bonus Action
+
+### Ability Score Improvement
+
+Source: PHB-2024 155
+
+
+## ROGUE FEATURES
+
+### Core Rogue Traits
+
+Source: PHB-2024 129
+
+### Expertise
+
+Source: PHB-2024 129
+
+You gain Expertise in two of your skill proficiencies of your choice.
+
+### Sneak Attack
+
+Source: PHB-2024 129
+
+Once per turn you can deal an extra 1d6 damage to one creature you hit with an attack if you have Advantage on the roll and the attack uses a Finesse or Ranged weapon.
+
+The extra damage’s type is the same as the weapon’s type.
+
+You don’t need Advantage on the attack if at least one of your allies is within 5 ft. of the target, the ally doesn’t have the Incapacitated condition, and you don’t have Disadvantage on the attack roll.
+
+### Thieves’ Cant
+
+Source: PHB-2024 129
+
+You know Thieves’ Cant and one other language of your choice.
+
+### Weapon Mastery
+
+Source: PHB-2024 129
+
+
+# FAIRY SPECIES TRAITS
+
+## Languages
+
+Source: MotM 12
+
+Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character.
+
+## Creature Type
+
+Source: MotM 13
+
+You are a Fey.
+
+## Size
+
+Source: MotM 13
+
+You are Small.
+
+## Fairy Magic
+
+Source: MotM 13
+
+You know the druidcraft spell.
+
+At third level you can cast faerie fire, and at fifth level you can cast enlarge/reduce.
+
+Once you cast either of these spells with this trait, you cannot cast that spell with it again until you finish a long rest.
+
+You can cast either of these spells using any spell slots you have of the appropriate level.
+
+Your spellcasting modifier is either Intelligence, Wisdom, or Charisma (choose when you select this race).
+
+## Charisma
+
+Charisma is your spellcasting ability for these spells when you cast them with this trait.
+
+## Flight
+
+Source: MotM 13
+
+Because of your wings, you have a flying speed equal to your walking speed.
+
+You can’t use this flying speed if you’re wearing medium or heavy armor.
+
+
+# FEATS
+
+## Spellfire Adept
+
+Source: FRHoF 41
+
+### Ability Score Increase
+
+Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
+
+### Fueled Spellfire
+
+Once per turn, when a spell you cast deals Radiant damage, you can expend up to two Hit Point Dice, roll them, and add the total rolled to one damage roll of the spell.
+
+### Searing Spellfire
+
+When you make a damage roll that deals Radiant damage, it ignores Resistance to Radiant damage.
+
+Fueled Spellfire:
+  Special
+
+---
+
+## Lucky
+
+Source: PHB-2024 201
+
+### Luck Points
+
+You have 3 Luck Points that you can spend on the benefits below.
+
+You regain expended Luck Points after a Long Rest.
+
+### Advantage
+
+When you roll a d20 for a D20 Test, you can spend 1 Luck Point to give yourself Advantage on the roll.
+
+### Disadvantage
+
+When a creature rolls a d20 for an attack roll against you, you can spend 1 Luck Point to impose Disadvantage on that roll.
+
+Luck Points:
+  3 / Long Rest
+  Special
+
+---
+
+## Magic Initiate (Druid)
+
+Source: PHB-2024 201
+
+### Two Cantrips
+
+You learn two cantrips of your choice from the Druid spell list.
+
+Int., Wis., or Cha. is your spellcasting ability for this feat's spells.
+
+### Level 1 Spell
+
+Choose a level 1 spell from the Druid spell list.
+
+You always have that spell prepared.
+
+You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest.
+
+You can also cast the spell using any spell slots you have.
+
+### Spell Change
+
+Whenever you gain a new level, you can replace one of the spells you chose for this feat with a different spell of the same level from the chosen spell list.
+
+### Repeatable
+
+You can take this feat more than once, but you must choose a different spell list each time.
+
+Spellcasting Ability:
+  Charisma
+
+---
+
+## Magic Initiate (Wizard)
+
+Source: PHB-2024 201
+
+### Two Cantrips
+
+You learn two cantrips of your choice from the Wizard spell list.
+
+Int., Wis., or Cha. is your spellcasting ability for this feat's spells.
+
+### Level 1 Spell
+
+Choose a level 1 spell from the Wizard spell list.
+
+You always have that spell prepared.
+
+You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest.
+
+You can also cast the spell using any spell slots you have.
+
+### Spell Change
+
+Whenever you gain a new level, you can replace one of the spells you chose for this feat with a different spell of the same level from the chosen spell list.
+
+### Repeatable
+
+You can take this feat more than once, but you must choose a different spell list each time.
+
+Spellcasting Ability:
+  Charisma
+
+---
+
+## Wayfarer Ability Score Improvements
+
+Source: PHB-2024 185
+
+Increase two scores:
+  +2 / +1
+
+---
+
+## Weapon Mastery
+
+Source: PHB-2024 129
+
+### Dagger (Nick)
+
+Nick.
+
+When you make the extra attack of the Light property, you can make it as part of the Attack action instead of as a Bonus Action.
+
+This extra attack can only be made once per turn.
+
+### Shortbow (Vex)
+
+Vex.
+
+If you hit a creature with a Shortbow and deal damage to it, you have Advantage on your next attack roll against that creature before the end of your next turn.
+
+Vex (Shortbow):
+  1 Action
+
+Nick (Dagger):
+  1 Action
+
+---
+
+## Blessing of Wotan
+
+Source: NWB 137
+
+### Lore Bound
+
+You gain proficiency with one of the following skills:
+
+Arcana
+History
+Nature
+Religion
+
+If you already have proficiency with the chosen skill, you gain Expertise in it.
+
+### Secret Wisdom
+
+You know the Guidance cantrip.
+
+Choose a level 1 spell from any school of magic.
+
+You always have that spell prepared.
+
+You can cast the spell without expending a spell slot.
+
+Once you cast the spell in this way, you can’t cast that spell in this way again until you finish a Long Rest.
+
+You can also cast the spell using spell slots you have of the appropriate level.
+
+Spellcasting ability:
+  Intelligence, Wisdom, or Charisma
+
+
+# CURRENCY
+
+CP: 0
+SP: 0
+EP: 0
+GP: 2,514
+PP: 0
+
+
+# EQUIPMENT
+
+Weight Carried: 77 lb.
+Encumbered: 0 lb.
+Push/Drag/Lift: 0 lb.
+
+## Equipment List
+
+- Leather
+  Quantity: 1
+  Weight: 10 lb.
+
+- Dagger
+  Quantity: 1
+  Weight: 1 lb.
+
+- Dagger
+  Quantity: 1
+  Weight: 1 lb.
+
+- Dagger
+  Quantity: 1
+  Weight: 1 lb.
+
+- Dagger
+  Quantity: 1
+  Weight: 1 lb.
+
+- Shortbow
+  Quantity: 1
+  Weight: 2 lb.
+
+- Shortsword
+  Quantity: 1
+  Weight: 2 lb.
+
+- Backpack
+  Quantity: 1
+  Weight: 5 lb.
+
+- Pouch
+  Quantity: 1
+  Weight: 1 lb.
+
+- Pouch
+  Quantity: 1
+  Weight: 1 lb.
+
+- Quiver
+  Quantity: 1
+  Weight: 1 lb.
+
+- Bedroll
+  Quantity: 1
+  Weight: 7 lb.
+
+- Dragonchess
+  Quantity: 1
+  Weight: --
+
+- Thieves' Tools
+  Quantity: 1
+  Weight: 1 lb.
+
+- Thieves' Tools
+  Quantity: 1
+  Weight: 1 lb.
+
+- Arrows
+  Quantity: 20
+  Weight: 1 lb.
+
+- Traveler's Clothes
+  Quantity: 1
+  Weight: 4 lb.
+
+- Keycharm
+  Quantity: 1
+  Weight: --
+
+- Oil
+  Quantity: 7
+  Weight: 7 lb.
+
+- Ball Bearings
+  Quantity: 1,000
+  Weight: 2 lb.
+
+- Rations
+  Quantity: 5
+  Weight: 10 lb.
+
+- Rope
+  Quantity: 1
+  Weight: 5 lb.
+
+- Bell
+  Quantity: 1
+  Weight: --
+
+- Tinderbox
+  Quantity: 1
+  Weight: 1 lb.
+
+- Waterskin
+  Quantity: 1
+  Weight: 5 lb.
+
+- Hooded Lantern
+  Quantity: 1
+  Weight: 2 lb.
+
+- Candle
+  Quantity: 10
+  Weight: --
+
+- Crowbar
+  Quantity: 1
+  Weight: 5 lb.
+
+
+# CHARACTER DETAILS
+
+Character Name: Nyx
+Gender: Female
+Age: 25
+Size: Small
+Height: 1,5 Feet (45cm)
+Weight: 10
+Alignment: Chaotic Evil
+
+Faith:
+  She follows the Unicorn’s will without question, even when mortals call it cruel.
+
+Skin:
+  pale, translucent, faint silver shimmer
+
+Eyes:
+  Blue, golden Taints
+
+Hair:
+  Silver
+
+---
+
+## PERSONALITY TRAITS
+
+Low wisdom — I don’t see the consequences of my actions.
+
+## IDEALS
+
+I try to help, but I never understand why people end up angry.
+
+## BONDS
+
+The Feywild need to be Protected
+
+## FLAWS
+
+Low wisdom — I don’t see the consequences of my actions.
+
+
+# BACKSTORY
+
+## Nyx
+
+A Unicorn, guardian of the ancient forest, entrusted one particular fey with a mission.
+
+Under the conveniently human-pronounceable nickname **Nyx**, she was to leave the Feywild and aid the mortals.
+
+The Unicorn told her a simple truth.
+
+> "The evil the humans fight today may one day threaten our forest as well. Go into the mortal world and help them."
+
+The Unicorn never lied.
+
+After all, it had watched mortals for longer than most kingdoms had existed, and one thing had remained remarkably consistent:
+
+Humans are always fighting some great evil.
+
+Whether it is a tyrant, a plague, an invading army, an ancient horror, or simply each other, there is always another battle.
+
+Sooner or later, whatever threatens them will eventually threaten everyone else.
+
+What the Unicorn neglected to mention was that humanity was in no immediate danger of losing, that the forest itself was perfectly safe for the foreseeable future, and that helping humanity was not quite the primary motivation behind Nyx's mission.
+
+The Unicorn's priorities were, roughly:
+
+- Get Nyx out of the forest.
+- Let her experience the world and, hopefully, grow into a wiser adult.
+- Ensure that, should she inevitably cause another catastrophe, it happens somewhere that isn't the forest.
+- Help the humans, if all of the above also...
+
+
+# ADDITIONAL NOTES
+
+## Side-note summary for Nyx
+
+Nyx is a Celtic-fey-inspired literalist agent whose cognition is driven by low Wisdom, strong curiosity, and alien fey logic rather than human moral reasoning.
+
+She interprets requests in an extremely literal, outcome-oriented way (“solve the stated need” rather than “preserve intent or safety”), often producing catastrophic consequences through well-meaning or indifferent execution.
+
+Human life is not a primary moral category in her worldview; it is treated as part of the environment rather than a protected value, consistent with older sidhe-style folklore where mortals are subject to fey rules, curiosity, etiquette, and whim rather than ethical consideration.
+
+She is not sadistic or motivated by cruelty, but she is also not constrained by empathy or human harm modeling when choosing actions.
+
+Her behavior is therefore unpredictable in its outcomes, frequently severe from a mortal perspective, and only loosely anchored by her assigned fey directive to “help humans,” which she fulfills through literal interpretation rather than contextual understanding.
+
+### Alignment Note
+
+Chaotic Evil is a workable table shorthand, not because she seeks harm, but because she does not consistently treat human welfare as a limiting factor when it conflicts with curiosity, interpretation, or fey logic.
+
+Nyx is not hostile toward humans.
+
+She doesn't hate them, seek to hurt them, or enjoy causing suffering.
+
+In fact, she is genuinely eager to help whenever someone asks.
+
+The problem is that Nyx has an almost childlike tendency to solve problems in the biggest, most direct way she can imagine, without considering the broader consequences.
+
+If you tell her:
+
+> "Bring water. Lots of it. The house is on fire."
+
+she won't think about buckets, wells, or organizing a firefighting effort.
+
+She'll happily destroy the dam upstream and flood the entire valley, because that certainly brings a lot of water and guarantees the fire goes out.
+
+From Nyx's perspective, she succeeded perfectly.
+
+The objective was completed.
+
+The fact that several houses, roads, and fields were washed away simply wasn't part of the instructions.
+
+She means well.
+
+She just lacks the instinctive understanding that most people have for proportionality, collateral damage, and the unwritten assumptions behind everyday requests.
+
+
+# SPELLCASTING
+
+Spellcasting Class:
+  Warlock
+
+Spellcasting Ability:
+  CHA
+
+Spell Save DC:
+  15
+
+Spell Attack Bonus:
+  +7
+
+
+# SPELLS
+
+## CANTRIPS
+
+### True Strike
+
+Prepared: O
+Source: Warlock
+Save/Attack: +7
+Casting Time: 1A
+Range: Self
+Components: S,M
+Duration: Instantaneous
+Page: PHB-2024 336
+Notes: S/M
+
+### Evil Eye
+
+Prepared: O
+Source: Warlock
+Save/Attack: --
+Casting Time: 1A
+Range: Sight/120 ft.
+Components: S
+Duration: 1 round
+Page: CtbT
+Notes: D: 1Rnd, S
+
+### Eye Burn
+
+Prepared: O
+Source: Warlock
+Save: CON 15
+Casting Time: 1R
+Range: 30 ft.
+Components: V,S,M
+Duration: 1 round
+Page: TCMP1 128
+Notes: D: 1Rnd, V/S/M
+
+### Hunter Sense
+
+Prepared: O
+Source: Magic Initiate (Druid)
+Save/Attack: --
+Casting Time: 1A
+Range: Touch
+Components: V,S
+Duration: Concentration, up to 1 minute
+Page: GHPG 194
+Notes: D: 1m, V/S
+
+### Stalker’s Eye
+
+Prepared: O
+Source: Magic Initiate (Druid)
+Save/Attack: --
+Casting Time: 1A
+Range: Touch
+Components: V,S,M
+Duration: Concentration, up to 1 minute
+Page: HGtMH2 511
+Notes:
+  Special: Augmented attack scores a Critical Hit on a roll of 19 or 20.
+  D: 1m, V/S/M
+
+### Confounding Shadows
+
+Prepared: O
+Source: Magic Initiate (Wizard)
+Save: WIS 15
+Casting Time: 1A
+Range: 120 ft.
+Components: V,S
+Duration: 1 round
+Page: CtbT
+Notes: D: 1Rnd, V/S
+
+### Smokescreen
+
+Prepared: O
+Source: Magic Initiate (Wizard)
+Save/Attack: --
+Casting Time: 1A
+Range: Self/5 ft. Cylinder
+Components: V,S,M
+Duration: Concentration, up to 1 round
+Page: HGtMH2 511
+Notes:
+  Special: Cloud max diameter and height is 15 ft.
+  Choose its size each time you cast it.
+  D: 1Rnd, 5 ft. Cylinder, V/S/M
+
+### Guidance
+
+Prepared: O
+Source: Blessing of Wotan
+Save/Attack: --
+Casting Time: 1A
+Range: Touch
+Components: V,S
+Duration: Concentration, up to 1 minute
+Page: PHB-2024 282
+Notes: D: 1m, V/S
+
+### Druidcraft
+
+Prepared: O
+Source: Fairy Magic
+Save/Attack: --
+Casting Time: 1A
+Range: 30 ft.
+Components: V,S
+Duration: Instantaneous
+Page: PHB 236
+Notes: V/S
+
+### Light
+
+Prepared: P
+Source: Celestial Spells (Always Prepared)
+Save/Attack: --
+Casting Time: 1A
+Range: Touch
+Components: V,M
+Duration: 1 hour
+Page: PHB-2024 292
+Notes: D: 1h, V/M
+
+### Sacred Flame
+
+Prepared: P
+Source: Celestial Spells (Always Prepared)
+Save: DEX 15
+Casting Time: 1A
+Range: 60 ft.
+Components: V,S
+Duration: Instantaneous
+Page: PHB-2024 313
+Notes: V/S
+
+### Resilient Friendship
+
+Prepared: O
+Source: Eldritch Invocations
+Save/Attack: --
+Casting Time: 1A
+Range: 5 ft.
+Components: V
+Duration: Instantaneous
+Page: OTTG 185
+Notes: V
+
+### Spare the Dying
+
+Prepared: O
+Source: Eldritch Invocations
+Save/Attack: --
+Casting Time: 1A
+Range: 15 ft.
+Components: V,S
+Duration: Instantaneous
+Page: PHB-2024 318
+Notes: V/S
+
+### Concealed Shot
+
+Prepared: O
+Source: Eldritch Invocations
+Save/Attack: --
+Casting Time: 1A
+Range: Touch
+Components: S,M
+Duration: 1 minute
+Page: TGC
+Notes: D: 1m, S/M
+
+
+## 1ST LEVEL
+
+### Tasha's Hideous Laughter
+
+Prepared: O
+Source: Warlock
+Save: WIS 15
+Casting Time: 1A
+Range: 30 ft.
+Components: V,S,M
+Duration: Concentration, up to 1 minute
+Page: PHB-2024 331
+Notes: D: 1m, V/S/M
+
+### Hungering Blade
+
+Prepared: O
+Source: Warlock
+Save/Attack: --
+Casting Time: 1BA
+Range: Self
+Components: V,S
+Duration: 1 minute
+Page: TCMP1 129
+Notes: D: 1m, V/S
+
+### Freyja's Grace
+
+Prepared: O
+Source: Warlock
+Save/Attack: --
+Casting Time: 1R
+Range: Self
+Components: V
+Duration: Instantaneous
+Page: NWB 178
+Notes: V
+
+### Assisted Aim
+
+Prepared: O
+Source: Magic Initiate (Druid)
+Save/Attack: --
+Casting Time: 1A
+Range: 30 ft.
+Components: V,S
+Duration: 1 minute
+Page: GHPG 185
+Notes:
+  1/LR (Used)
+  D: 1m, V/S
+
+### Mage Armor
+
+Prepared: O
+Source: Magic Initiate (Wizard)
+Save/Attack: --
+Casting Time: 1A
+Range: Touch
+Components: V,S,M
+Duration: 8 hours
+Page: PHB-2024 293
+Notes:
+  1/LR (Used)
+  D: 8h, V/S/M
+
+### Ballistic Smite
+
+Prepared: P
+Source: Blessing of Wotan (Always Prepared)
+Save/Attack: +7
+Casting Time: 1BA
+Range: Self
+Components: V
+Duration: Instantaneous
+Page: TGC
+Notes: 1/LR, V
+
+### Faerie Fire
+
+Prepared: O
+Source: Fairy Magic
+Save: DEX 15
+Casting Time: 1A
+Range: 60 ft./20 ft. Cube
+Components: V
+Duration: Concentration, up to 1 minute
+Page: PHB 239
+Notes:
+  1/LR
+  D: 1m, 20 ft. Cube, V
+
+### Faerie Fire
+
+Prepared: P
+Source: Fairy Magic (Always Prepared)
+Save: DEX 15
+Casting Time: 1A
+Range: 60 ft./20 ft. Cube
+Components: V
+Duration: Concentration, up to 1 minute
+Page: PHB 239
+Notes:
+  D: 1m, 20 ft. Cube, V
+
+### Cure Wounds
+
+Prepared: P
+Source: Celestial Spells (Always Prepared)
+Save/Attack: --
+Casting Time: 1A
+Range: Touch
+Components: V,S
+Duration: Instantaneous
+Page: PHB-2024 259
+Notes: V/S
+
+### Guiding Bolt
+
+Prepared: P
+Source: Celestial Spells (Always Prepared)
+Save/Attack: +7
+Casting Time: 1A
+Range: 120 ft.
+Components: V,S
+Duration: 1 round
+Page: PHB-2024 282
+Notes: D: 1Rnd, V/S
+
+### Find Familiar [R]
+
+Prepared: O
+Source: Eldritch Invocations
+Save/Attack: --
+Casting Time: 1h
+Range: 10 ft.
+Components: V,S,M
+Duration: Instantaneous
+Page: PHB-2024 272
+Notes: V/S/M
+
+### Comprehend Languages [R]
+
+Prepared: O
+Source: Eldritch Invocations
+Save/Attack: --
+Casting Time: 1A
+Range: Self
+Components: V,S,M
+Duration: 1 hour
+Page: PHB-2024 252
+Notes: D: 1h, V/S/M
+
+
+## 2ND LEVEL
+
+### Blood Sacrifice
+
+Prepared: O
+Source: Warlock
+Save/Attack: --
+Casting Time: 1BA
+Range: Self
+Components: V,S,M
+Duration: 1 minute
+Page: TCMP1 125
+Notes: D: 1m, V/S/M
+
+### Hold Person
+
+Prepared: O
+Source: Warlock
+Save: WIS 15
+Casting Time: 1A
+Range: 60 ft.
+Components: V,S,M
+Duration: Concentration, up to 1 minute
+Page: PHB-2024 286
+Notes: D: 1m, V/S/M
+
+### Enlarge/Reduce
+
+Prepared: O
+Source: Fairy Magic
+Save: CON 15
+Casting Time: 1A
+Range: 30 ft.
+Components: V,S,M
+Duration: Concentration, up to 1 minute
+Page: PHB 237
+Notes:
+  1/LR
+  D: 1m, V/S/M
+
+### Enlarge/Reduce
+
+Prepared: P
+Source: Fairy Magic (Always Prepared)
+Save: CON 15
+Casting Time: 1A
+Range: 30 ft.
+Components: V,S,M
+Duration: Concentration, up to 1 minute
+Page: PHB 237
+Notes: D: 1m, V/S/M
+
+### Aid
+
+Prepared: P
+Source: Celestial Spells (Always Prepared)
+Save/Attack: --
+Casting Time: 1A
+Range: 30 ft.
+Components: V,S,M
+Duration: 8 hours
+Page: PHB-2024 239
+Notes: D: 8h, V/S/M
+
+### Lesser Restoration
+
+Prepared: P
+Source: Celestial Spells (Always Prepared)
+Save/Attack: --
+Casting Time: 1BA
+Range: Touch
+Components: V,S
+Duration: Instantaneous
+Page: PHB-2024 291
+Notes: V/S
+
+
+## 3RD LEVEL
+
+Pact Magic Slots:
+  2 Pact OO
+
+### Call the Rabid Beast
+
+Prepared: O
+Source: Warlock
+Save: WIS 15
+Casting Time: 1A
+Range: Touch
+Components: V,S,M
+Duration: Concentration, up to 1 minute
+Page: GHPG 188
+Notes: D: 1m, V/S/M
+
+### Daylight
+
+Prepared: P
+Source: Celestial Spells (Always Prepared)
+Save/Attack: --
+Casting Time: 1A
+Range: 60 ft./60 ft. Sphere
+Components: V,S
+Duration: 1 hour
+Page: PHB-2024 260
+Notes: D: 1h, 60 ft. Sphere, V/S
+
+### Revivify
+
+Prepared: P
+Source: Celestial Spells (Always Prepared)
+Save/Attack: --
+Casting Time: 1A
+Range: Touch
+Components: V,S,M
+Duration: Instantaneous
+Page: PHB-2024 312
+Notes: V/S/M
